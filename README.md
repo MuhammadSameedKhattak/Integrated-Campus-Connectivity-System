@@ -18,7 +18,7 @@ Architected a highly resilient and scalable campus network. This project simulat
 
 ## 📊 Proof of Concept
 ### Gateway Redundancy (HSRP)
-![HSRP Proof](https://github.com/MuhammadSameedKhattak/Integrated-Campus-Connectivity-System/blob/main/validation/HSRP-Status.png?raw=true)
+![HSRP Proof](https://github.com/MuhammadSameedKhattak/Integrated-Campus-Connectivity-System/blob/main/HSRPstatus.png?raw=true)
 *Caption: Output of `show standby brief` confirming Active/Standby states for the virtual gateway.*
 
 ### VLAN Distribution (VTP)
