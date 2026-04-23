@@ -4,8 +4,7 @@
 Architected a highly resilient and scalable campus network. This project simulates a multi-department corporate environment, focusing on high availability, logical traffic separation, and optimized routing protocols.
 
 ## 🏗️ Topology & Architecture
-![(https://github.com/MuhammadSameedKhattak/Integrated-Campus-Connectivity-System/blob/main/NetworkTopology.png?raw=true))
-
+![Campus Topology](https://github.com/MuhammadSameedKhattak/Integrated-Campus-Connectivity-System/blob/main/NetworkTopology.png?raw=true)
 **Key Design Features:**
 * **Access Layer:** End-user connectivity for Departments (IT, HR, Sales).
 * **Distribution Layer:** High-speed switching and gateway redundancy.
@@ -19,9 +18,9 @@ Architected a highly resilient and scalable campus network. This project simulat
 
 ## 📊 Proof of Concept
 ### Gateway Redundancy (HSRP)
-![https://github.com/MuhammadSameedKhattak/Integrated-Campus-Connectivity-System/blob/main/HSRPstatus.png?raw=true
+![HSRP Proof](https://github.com/MuhammadSameedKhattak/Integrated-Campus-Connectivity-System/blob/main/validation/HSRP-Status.png?raw=true)
 *Caption: Output of `show standby brief` confirming Active/Standby states for the virtual gateway.*
 
 ### VLAN Distribution (VTP)
-![(https://github.com/MuhammadSameedKhattak/Integrated-Campus-Connectivity-System/blob/main/VlanInventory.png?raw=true)
+![VTP Proof](https://github.com/MuhammadSameedKhattak/Integrated-Campus-Connectivity-System/blob/main/validation/VLAN-Inventory.png?raw=true)
 *Caption: Validation of VLAN inventory and VTP propagation across access switches.*
