@@ -22,5 +22,5 @@ Architected a highly resilient and scalable campus network. This project simulat
 *Caption: Output of `show standby brief` confirming Active/Standby states for the virtual gateway.*
 
 ### VLAN Distribution (VTP)
-![VTP Proof](https://github.com/MuhammadSameedKhattak/Integrated-Campus-Connectivity-System/blob/main/validation/VLAN-Inventory.png?raw=true)
+![VTP Proof](https://github.com/MuhammadSameedKhattak/Integrated-Campus-Connectivity-System/blob/main/VlanInventory.png?raw=true)
 *Caption: Validation of VLAN inventory and VTP propagation across access switches.*
